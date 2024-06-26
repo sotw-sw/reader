@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254022253143",
+    "project_id": "sotw-reader-427016",
+    "storage_bucket": "sotw-reader-427016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254022253143:android:6649514f29d01d482d8112",
+        "android_client_info": {
+          "package_name": "org.sotwsw.sotw_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUIjIchiZouy9ZAIqZyrzBKlWQoKd5W7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
